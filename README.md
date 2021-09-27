@@ -5,12 +5,12 @@
   <tr>
     <td colspan=2 align=center>플랫폼</td>
     <td colspan=2 align=center><a href="https://github.com/PaaS-TA/paasta-deployment">어플리케이션 플랫폼</a></td>
-    <td colspan=2 align=center><a href="need_change">컨테이너 플랫폼</a></td>
+    <td colspan=2 align=center><a href="https://github.com/PaaS-TA/paas-ta-container-platform-deployment">컨테이너 플랫폼</a></td>
   </tr>
   <tr>
     <td colspan=2 rowspan=2 align=center>포털</td>
     <td colspan=2 align=center><a href="https://github.com/PaaS-TA/portal-deployment">AP 포털</a></td>
-    <td colspan=2 align=center><a href="need_change">CP 포털</a></td>
+    <td colspan=2 align=center><a href="https://github.com/PaaS-TA/container-platform-portal-release">CP 포털</a></td>
   </tr>
   <tr align=center>
     <td colspan=4><a href="https://github.com/PaaS-TA/PaaS-TA-Monitoring">모니터링 대시보드</a></td>
@@ -56,8 +56,8 @@
   </tr>
   <tr align=center>
     <td rowspan=1 colspan=2><a href="https://github.com/PaaS-TA/service-deployment">CP 서비스</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/PaaS-TA/container-platform-pipeline-release">Pipeline Release</a></td>
+    <td><a href="https://github.com/PaaS-TA/container-platform-source-control-release">Source Control Release</a></td>
     <td></td>
     <td></td>
   </tr>
