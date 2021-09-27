@@ -4,7 +4,7 @@
   <tr>
     <td colspan=2 align=center>플랫폼</td>
     <td colspan=2 align=center><a href="https://github.com/PaaS-TA/paasta-deployment">어플리케이션 플랫폼</a></td>
-    <td colspan=2 align=center><a href="https://github.com/PaaS-TA/paas-ta-container-platform-deployment">컨테이너 플랫폼</a></td>
+    <td colspan=2 align=center><a href="https://github.com/PaaS-TA/paas-ta-container-platform">컨테이너 플랫폼</a></td>
   </tr>
   <tr>
     <td colspan=2 rowspan=2 align=center>포털</td>
@@ -54,7 +54,7 @@
     <td></td>
   </tr>
   <tr align=center>
-    <td rowspan=1 colspan=2><a href="https://github.com/PaaS-TA/service-deployment">CP 서비스</a></td>
+    <td rowspan=1 colspan=2><a href="https://github.com/PaaS-TA/paas-ta-container-platform-deployment">CP 서비스</a></td>
     <td><a href="https://github.com/PaaS-TA/container-platform-pipeline-release">Pipeline Release</a></td>
     <td><a href="https://github.com/PaaS-TA/container-platform-source-control-release">Source Control Release</a></td>
     <td></td>
